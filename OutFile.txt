@@ -1,0 +1,11 @@
+Here is the Stable matched output
+W1 M4
+W2 M3
+W3 M9
+W4 M5
+W5 M6
+W6 M10
+W7 M1
+W8 M2
+W9 M7
+W10 M8
